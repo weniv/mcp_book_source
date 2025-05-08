@@ -52,6 +52,6 @@
 ### 5 Update
 
 * Notion MCP Server 가져와서 설치하기, Excel MCP Server 가져와서 설치하기 챕터가 추가되었습니다. 이 챕터는 한국어로만 작성되었습니다. 아래 챕터 링크를 추가합니다.
-링크: [Notion MCP Server 가져와서 설치하기](https://paullabworkspace.notion.site/4-1-Notion-MCP-Server-1edebf76ee8a8001a12ffe15d67b1b23?pvs=4)
-링크: [Excel MCP Server 가져와서 설치하기](https://paullabworkspace.notion.site/4-2-Excel-MCP-Server-1edebf76ee8a80debf15c6ee230c3ca6?pvs=4)
+    * 링크: [Notion MCP Server 가져와서 설치하기](https://paullabworkspace.notion.site/4-1-Notion-MCP-Server-1edebf76ee8a8001a12ffe15d67b1b23?pvs=4)
+    * 링크: [Excel MCP Server 가져와서 설치하기](https://paullabworkspace.notion.site/4-2-Excel-MCP-Server-1edebf76ee8a80debf15c6ee230c3ca6?pvs=4)
 
