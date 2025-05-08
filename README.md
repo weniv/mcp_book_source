@@ -6,6 +6,14 @@
 
 * この本は韓国語、英語、日本語に翻訳された本です。この本の内容は毎月更新されますが、一部の言語や配布によって更新が遅れたり、行われない場合があります。したがって、ここに更新履歴を整理します。
 
+- 한문
+   - 리디북스 : https://ridibooks.com/books/2773000106
+   - 교보문고 : https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011285165
+   - 알라딘 : http://aladin.kr/p/3RIne
+   - Yes24 : 출시 예정
+- 영문 AMAZON : https://www.amazon.com/dp/B0F4QS4S6D
+- 일문 AMAZON : https://www.amazon.co.jp/dp/B0F314DJ95
+
 ## 2025 / 5 / 8 Update
 
 ### 1 Update
