@@ -63,3 +63,7 @@
     * 링크: [Notion MCP Server 가져와서 설치하기](https://paullabworkspace.notion.site/4-1-Notion-MCP-Server-1edebf76ee8a8001a12ffe15d67b1b23?pvs=4)
     * 링크: [Excel MCP Server 가져와서 설치하기](https://paullabworkspace.notion.site/4-2-Excel-MCP-Server-1edebf76ee8a80debf15c6ee230c3ca6?pvs=4)
 
+
+### 6 Update
+* 25년 6월 초 MCP 통합이라는 기능이 출시되었습니다. 코드 없이 MCP를 추가할 수 있는 기능입니다. 이 챕터는 한국어로만 작성되었습니다. 아래 챕터 링크를 추가합니다.
+    * 링크: [MCP 통합](https://paullabworkspace.notion.site/MCP-20bebf76ee8a8078afc0ed36439ea00c?source=copy_link)
