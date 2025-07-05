@@ -5,9 +5,9 @@
 ## 종이책 안내
 
 * 종이책 코드는 `paper` 폴더에 있습니다.
-* 다운로드는 오른쪽 상단에 `Code` 버튼 클릭 후 `Download ZIP`을 클릭하여 다운로드 받으실 수 있습니다.
-* 전체 압축 파일은 아래 링크를 클릭하신 후 오른쪽 상단에 `Download raw file` 버튼을 클릭하시면 다운로드 받으실 수 있습니다.
-* 종이책 압축파일 링크: [mcp_book_source_paper.zip](https://github.com/weniv/mcp_book_source/blob/main/paper.zip)
+* 다운로드는 현재 페이지 오른쪽 상단에 `Code` 버튼 클릭 후 `Download ZIP`을 클릭하여 다운로드 받으실 수 있습니다.
+* 종이책 전체 압축 파일은 아래 링크를 클릭하신 후 오른쪽 상단에 `Download raw file` 버튼을 클릭하시면 다운로드 받으실 수 있습니다.
+    * 종이책 압축파일 링크: [mcp_book_source_paper.zip](https://github.com/weniv/mcp_book_source/blob/main/paper.zip)
 
 ## 전자책 안내
 
