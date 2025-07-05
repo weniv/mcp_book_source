@@ -1,5 +1,16 @@
 # mcp_book_source
 
+해당 책은 전자책으로는 'MCP 혁신'이라는 이름으로 종이책으로는 '10분 만에 따라 하는 Claude MCP 업무 자동화 혁신 가이드'라는 이름으로 출간되었습니다. 이 두책은 대부분 동일한 내용입니다. 전자책은 업데이트를 주기적으로 하고 있고, 종이책은 전자책보다 더 초급자에게 상세하고 친절한 설명이 들어가 있습니다.
+
+## 종이책 안내
+
+* 종이책 코드는 `paper` 폴더에 있습니다.
+* 다운로드는 오른쪽 상단에 `Code` 버튼 클릭 후 `Download ZIP`을 클릭하여 다운로드 받으실 수 있습니다.
+* 전체 압축 파일은 아래 링크를 클릭하신 후 오른쪽 상단에 `Download raw file` 버튼을 클릭하시면 다운로드 받으실 수 있습니다.
+* 종이책 압축파일 링크: [mcp_book_source_paper.zip](https://github.com/weniv/mcp_book_source/blob/main/paper.zip)
+
+## 전자책 안내
+
 * 해당 책은 한국어, 영어, 일본어로 번역된 책입니다. 이 책에 내용은 매달 업데이트 되고 있으나, 일부 언어나 배포사에 따라 업데이트가 늦어지거나 안될 수 있습니다. 따라서 이곳에 업데이트 내역을 정리합니다.
 
 * This book is translated into Korean, English, and Japanese. The content of this book is updated every month, but the update may be delayed or not done depending on the language or distribution. Therefore, we will organize the update history here.
@@ -10,7 +21,7 @@
    - 리디북스 : https://ridibooks.com/books/2773000106
    - 교보문고 : https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011285165
    - 알라딘 : http://aladin.kr/p/3RIne
-   - Yes24 : 출시 예정
+   - Yes24 : https://www.yes24.com/product/goods/147734827
 - 영문 AMAZON : https://www.amazon.com/dp/B0F4QS4S6D
 - 일문 AMAZON : https://www.amazon.co.jp/dp/B0F314DJ95
 
