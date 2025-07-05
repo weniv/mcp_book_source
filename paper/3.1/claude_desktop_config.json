@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "mcp_project": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "C:\\test\\server.py"
+      ]
+    }
+  }
+}

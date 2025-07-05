@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "tutorial_1": {
+            "command": "python",
+            "args": [
+                "C:\\test\\tutorial_1.py"
+            ]
+        }
+    }
+}
